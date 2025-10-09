@@ -3,15 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "922082843993b98a390bc71e9f1c5d13",
-"assets/AssetManifest.bin.json": "a4b2855fca1244959234a8ebb07cf08f",
-"assets/AssetManifest.json": "ba2d31a26adebaa3a432c40a98c87cc6",
-"assets/assets/AppIcons%2520(2).zip": "8ad030e5231397eb588c9dd012427a6c",
+const RESOURCES = {"assets/AssetManifest.bin": "6d3f68542253e6160568625c5145504e",
+"assets/AssetManifest.bin.json": "00c7be81456690419d3405a3417976bf",
+"assets/AssetManifest.json": "81edae098f56e6d394cafffb5e3f9dd4",
 "assets/assets/Bayar-Sekarang-text.png": "2397d324617ce1da845b0dcd27ec6a31",
-"assets/assets/logo.jpg": "876f80913ef20a206d109d6523d8db5f",
-"assets/assets/logo.png": "3c7b0f4089afafc02e14717f96c4dc23",
 "assets/assets/logo1.png": "a6d73e5f7737ae37b744b2f5d7d86f1a",
-"assets/assets/logorizal.zip": "990a7bb5490344913a0a94a983c4c61f",
 "assets/assets/lottie/keranjangkosong.json": "02aa1c1e555a5388f29e9a217f7c5c97",
 "assets/assets/lottie/no_customer.json": "d5c553dca43155f04765adbe081685c6",
 "assets/assets/lottie/success01.json": "36ba0c9961f80adb7c58ef450fbcd79b",
@@ -37,7 +33,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "922082843993b98a390bc71e9f1c5d13
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "2a48b0704ea2c46c149133e62b51f13e",
+"flutter_bootstrap.js": "77e6b2441ab4bee9950fd2ce287cc64e",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
